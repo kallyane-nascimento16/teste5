@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\bin\Debug\net6.0\CondiçãoSe.BD.exe
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\bin\Debug\net6.0\CondiçãoSe.BD.deps.json
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\bin\Debug\net6.0\CondiçãoSe.BD.runtimeconfig.json
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\bin\Debug\net6.0\CondiçãoSe.BD.dll
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\bin\Debug\net6.0\CondiçãoSe.BD.pdb
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\obj\Debug\net6.0\CondiçãoSe.BD.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\obj\Debug\net6.0\CondiçãoSe.BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\obj\Debug\net6.0\CondiçãoSe.BD.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\obj\Debug\net6.0\CondiçãoSe.BD.AssemblyInfo.cs
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\obj\Debug\net6.0\CondiçãoSe.BD.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\obj\Debug\net6.0\CondiçãoSe.BD.dll
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\obj\Debug\net6.0\refint\CondiçãoSe.BD.dll
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\obj\Debug\net6.0\CondiçãoSe.BD.pdb
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\obj\Debug\net6.0\CondiçãoSe.BD.genruntimeconfig.cache
+C:\Users\SENAI\Documents\kallyane C#\CondiçãoSe.BD\CondiçãoSe.BD\obj\Debug\net6.0\ref\CondiçãoSe.BD.dll
